@@ -49,3 +49,7 @@ This project is licensed under the MIT. Read the MIT file for more information.
 ### Step 1
 
 ![step1](https://github.com/taolas/BuyBuy-E-Commerce./assets/28709637/abeabae7-971f-4160-a965-51c652d5b785)
+
+## Step 2
+
+
